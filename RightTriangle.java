@@ -1,4 +1,3 @@
-package Module1;
 public class RightTriangle {
     public static void main(String[] args) {
         if (args.length != 3) {
