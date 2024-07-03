@@ -1,6 +1,5 @@
 public class CMYKtoRGB {
     public static void main(String[] args) {
-        //0.0 1.0 0.0 0.0 
 
         double cyan = Double.parseDouble(args[0]);
         double magenta = Double.parseDouble(args[1]);
